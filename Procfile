@@ -1,2 +1,2 @@
 worker: node bot
-web: node start
+web: node bot
